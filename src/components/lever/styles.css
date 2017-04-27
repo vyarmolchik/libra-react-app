@@ -1,0 +1,8 @@
+.lever {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+}
